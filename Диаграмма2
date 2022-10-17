@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T07:59:25.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AdXN-2WAy20P7UZiRzVY" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:02:36.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vipQ7NcFVq2tDHlYswF6" version="20.4.0" type="github" pages="2">
   <diagram id="HoSdVCJSQJfb94rXwZNW" name="Диаграмма2 || Пример">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RHAZrWQLRDkT96S_gRnY" name="Диаграмма2 || Доставка Суши">
-    <mxGraphModel dx="2585" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,7 +474,7 @@
             <mxPoint x="38" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lnSjmOPSwvC8dsKI3XS-40" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.898;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-lnSjmOPSwvC8dsKI3XS-43" target="-lnSjmOPSwvC8dsKI3XS-42" edge="1">
+        <mxCell id="-lnSjmOPSwvC8dsKI3XS-40" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.898;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="-lnSjmOPSwvC8dsKI3XS-43" target="-lnSjmOPSwvC8dsKI3XS-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="945" y="601" as="sourcePoint" />
             <mxPoint x="558" y="610" as="targetPoint" />
@@ -502,7 +502,7 @@
             <mxPoint x="-39" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lnSjmOPSwvC8dsKI3XS-46" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.012;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="-lnSjmOPSwvC8dsKI3XS-42" target="-lnSjmOPSwvC8dsKI3XS-43" edge="1">
+        <mxCell id="-lnSjmOPSwvC8dsKI3XS-46" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.012;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-lnSjmOPSwvC8dsKI3XS-42" target="-lnSjmOPSwvC8dsKI3XS-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="707.02" y="690.996" as="sourcePoint" />
             <mxPoint x="-107.99999999999997" y="690.996" as="targetPoint" />
