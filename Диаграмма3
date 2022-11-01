@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T08:31:52.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1095 Yowser/2.5 Safari/537.36" etag="q2gDBONzhRwPt6xkbQTI" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-01T08:33:04.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1095 Yowser/2.5 Safari/537.36" etag="DwZDBtFyKbS20dcrGcf8" version="20.5.1" type="github" pages="4">
   <diagram id="yw0I-N-TDq-8ZBSzYpm5" name="Страница 1">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1210,10 +1210,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3YVW9ExSHbdDzeCz9ZT" name="Страница 4">
-    <mxGraphModel dx="335" dy="192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UAKCAYuT2TptqVoP18Og-1" value="" style="shape=or;whiteSpace=wrap;html=1;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;gradientDirection=radial;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="483.08" y="322.87" width="143.17" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="QXT8bSzYesrQ_o_gaNlc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#705B46;fontColor=#D4E1F5;fillColor=#FFCCCC;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="500" width="30" height="40" as="geometry" />
         </mxCell>
